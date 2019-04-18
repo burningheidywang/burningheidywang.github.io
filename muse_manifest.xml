@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://burningheidy.github.io" resolutions="1x,2x" timestamp="1555578808827">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://burningheidy.github.io" resolutions="1x,2x" timestamp="1555578884250">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="385907934" ref="index"/>
