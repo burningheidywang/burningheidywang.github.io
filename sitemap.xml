@@ -30,10 +30,4 @@
       <image:loc>http://burningheidy.github.io/images/icon1_2x.png</image:loc>
     </image:image>
   </url>
-  <url>
-    <loc>http://burningheidy.github.io/%E9%A6%96%E9%A0%81.html</loc>
-    <lastmod>2019-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>

@@ -1,16 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://burningheidy.github.io" resolutions="1x,2x" timestamp="1555574939920">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://burningheidy.github.io" resolutions="1x,2x" timestamp="1555578700612">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="290384583" ref="index"/>
-    <file name="__.css" crc="4042801234" ref="首頁"/>
+    <file name="index.css" crc="385907934" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:首頁"/>
-    <file name="museutils.js" crc="3803043152" ref="index:首頁"/>
-    <file name="whatinput.js" crc="86476730" ref="index:首頁"/>
-    <file name="museconfig.js" crc="380897831" ref="index:首頁"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:首頁"/>
-    <file name="require.js" crc="4157109226" ref="index:首頁"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
   </folder>
   <folder name="images">
@@ -70,6 +69,5 @@
       <caption webpage="burning" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="353672679" seo="true" mt="1555574923143" redirect="true"/>
-  <file name="首頁.html" crc="87750668" seo="true" mt="1555574923147" redirect="false"/>
+  <file name="index.html" crc="463816839" seo="true" mt="1555578114348" redirect="true"/>
 </manifest>
