@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://burningheidy.github.io" resolutions="1x,2x" timestamp="1555580394506">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://burningheidy.github.io" resolutions="1x,2x" timestamp="1556123837415">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
+    <file name="site_global.css" crc="4085801442"/>
     <file name="index.css" crc="385907934" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -30,10 +30,10 @@
     </file>
     <file name="u161-4.png" crc="408911544" ref="index"/>
     <file name="u161-4_2x.png" crc="4045115780" ref="index"/>
-    <file name="1.jpg" crc="3986787489" seo="true" ref="index">
+    <file name="1.jpg" crc="3939818825" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1_2x.jpg" crc="3942257270" seo="true" ref="index">
+    <file name="1_2x.jpg" crc="269540912" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon2.png" crc="233760081" seo="true" ref="index">
@@ -59,5 +59,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4069146973" seo="true" mt="1555580378492" redirect="true"/>
+  <file name="index.html" crc="3980262852" seo="true" mt="1556123355155" redirect="true"/>
 </manifest>
